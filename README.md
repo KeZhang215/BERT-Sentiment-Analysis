@@ -319,7 +319,3 @@ Selected key references (full list in the report). / 精选核心参考文献（
 ## Acknowledgments / 致谢
 
 This project was conducted with **SheltonAI**, an AI solutions company focused on transparency and control for investors. / 本项目与 **SheltonAI**（专注于为投资者提供透明度与可控性的 AI 解决方案公司）合作完成。
-
----
-
-<sub>📌 Note: the source report is marked **"DO NOT CIRCULATE."** Confirm with your co-authors and advisors before making this repository public. / 注：原始报告标注为 **「DO NOT CIRCULATE（请勿传播）」**，公开本仓库前请先与合作者及导师确认。</sub>
